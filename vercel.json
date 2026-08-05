@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/n2yo/:operation", "destination": "/api/n2yo?operation=:operation" }
+  ]
+}
